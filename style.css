@@ -1,6 +1,21 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-  }
-  
+/* Global styling */
+html {
+  scroll-behavior: smooth;
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: #5f9ea0;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+/* layering the background color of the website */
+body{
+  background-color: rgb(219, 245, 245);
+  padding: 1em;
+  border-radius: 1em;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
